@@ -1,0 +1,20 @@
+<template>
+  <RouterLink
+    to="/"
+    class="logo">
+    <span>Heegun's</span>OMDbAPI Site
+  </RouterLink>
+</template>
+
+<style lang="scss" scoped>
+
+.logo {
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  color: $black;
+  text-decoration: none;
+  span {
+    color:$primary
+  }
+}
+</style>

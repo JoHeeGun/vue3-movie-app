@@ -1,6 +1,6 @@
 <template>
     <div>
-        test22
+        <div>브랜치 test</div>
     </div>
 </template>
 
